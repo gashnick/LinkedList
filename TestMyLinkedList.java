@@ -34,7 +34,7 @@ public class TestMyLinkedList {
         
         // Merging two linkedlists
       
-        System.out.print("Two merged linkedlists are: ");  
+        System.out.print("Elements of two merged linked lists are: ");  
         l1.merge(l2);
     }
 }
